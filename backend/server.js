@@ -15,7 +15,7 @@ const allowedOrigins = [
   "https://comm-sync-ai.vercel.app",
   "https://comm-sync-ai-3vjv-5s0kf088b-gaurav-prakashs-projects.vercel.app",
   "https://comm-sync-ai-3vjv.vercel.app",
-  "https://new-comm-sync-ai.vercel.app/"
+  "https://new-comm-sync-ai.vercel.app"
 ];
 
 const server = http.createServer(app);
